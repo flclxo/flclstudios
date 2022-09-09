@@ -42,6 +42,12 @@ section {
 
 }
 
+.nav-text a:hover {
+  color: #4fd81e;
+
+
+}
+
 
 
 .main-page {
@@ -69,6 +75,31 @@ section {
 
 
 }
+
+footer {
+  justify-content: center;
+  display: flex;
+  font-size: 2em;
+}
+
+
+.fa {
+  padding: 1%;
+  width: 1em;
+  text-align: center;
+  text-decoration: none;
+  margin: 2.5%;
+  color: rgb(139, 139, 139);
+}
+
+a {
+
+  color: rgb(139, 139, 139);
+  text-decoration: none;
+
+}
+
+
 
 
 @media (max-width:420px) {
@@ -113,7 +144,6 @@ section {
 
 
 }
-
 
 
 
