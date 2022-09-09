@@ -1,3 +1,6 @@
+//not used but it is globe 2d spinning earth 
+
+
 let canvas = document.createElement('canvas');
 document.body.appendChild(canvas);
 canvas.id = "canvas";
